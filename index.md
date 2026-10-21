@@ -4,7 +4,7 @@
 
 This policy describes how the **ENCA Thermostat** mobile app (the "App")
 handles your data. The App is published by **Energy Catalyst** ("we",
-"us"). Contact: **<TODO: support@your-domain.example>**.
+"us"). Contact: **support@energycatalysttech.com**.
 
 ## Summary
 
@@ -89,4 +89,4 @@ called out in the App's release notes.
 
 ## Contact
 
-Questions about this policy: **<TODO: support@your-domain.example>**.
+Questions about this policy: **support@energycatalysttech.com**.
